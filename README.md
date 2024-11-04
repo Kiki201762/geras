@@ -3,3 +3,4 @@ pip install -r kuntul.txt
 python3 tytyd.set proxy di proksi.txt
 
 enjoy farming :)
+hasil modifikasi
